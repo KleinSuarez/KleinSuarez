@@ -11,8 +11,7 @@ Welcome to my Github page! I am Klein and I am currently finishing my Computer E
 <code><img width="9%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+
 </p>
 
 
